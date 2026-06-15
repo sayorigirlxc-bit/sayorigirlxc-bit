@@ -1,13 +1,13 @@
-<!-- ============ BANNER ============ -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
-  <img src="./banner.png" alt="NEXORA — Sistemas & Automações" width="100%" />
+  <img src="./hero.svg" alt="NEXORA — Sistemas & Automações" width="100%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="./subtitle.svg" alt="Sistemas e automações sob medida" width="80%" />
+</div>
 
 <div align="center">
-
-  <h3>Sistemas, sites e automações para negócios que querem sair do manual.</h3>
 
   <p>
     A Nexora cria soluções digitais personalizadas para organizar processos,<br/>
@@ -26,56 +26,56 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ O QUE RESOLVEMOS ============ -->
-## O que a Nexora resolve
+<!-- ===================== O QUE RESOLVEMOS ===================== -->
+<h2 align="center">O que a Nexora resolve</h2>
 
-Cada solução nasce do processo real da empresa — sem templates prontos, sem soluções genéricas.
+<p align="center">Cada solução nasce do processo real da empresa — sem templates prontos, sem soluções genéricas.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Sistemas feitos sob medida</h4>
+      <h4>&#9670;&nbsp; Sistemas feitos sob medida</h4>
       Cada sistema é pensado para o processo real da empresa, e não o contrário.
     </td>
     <td width="50%" valign="top">
-      <h4>Visibilidade total</h4>
+      <h4>&#9670;&nbsp; Visibilidade total</h4>
       Dashboards e painéis que transformam dados soltos em informação clara para decidir melhor.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Automação de processos</h4>
+      <h4>&#9670;&nbsp; Automação de processos</h4>
       Confirmações, disparos e acompanhamentos que antes consumiam horas da equipe.
     </td>
     <td width="50%" valign="top">
-      <h4>Documentos organizados</h4>
+      <h4>&#9670;&nbsp; Documentos organizados</h4>
       Protocolos, laudos e contratos padronizados, com identidade visual e controle de revisão.
     </td>
   </tr>
 </table>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ COMO FUNCIONA ============ -->
-## Do diagnóstico à entrega
+<!-- ===================== COMO FUNCIONA ===================== -->
+<h2 align="center">Do diagnóstico à entrega</h2>
 
 <table>
   <tr align="center">
-    <td width="25%"><b>01 · Diagnóstico</b><br/><sub>Entendemos seu processo e onde ele trava.</sub></td>
-    <td width="25%"><b>02 · Proposta</b><br/><sub>Mapeamos a solução ideal para a sua rotina.</sub></td>
-    <td width="25%"><b>03 · Desenvolvimento</b><br/><sub>Construção com acompanhamento próximo.</sub></td>
-    <td width="25%"><b>04 · Entrega &amp; Suporte</b><br/><sub>Implementação, treinamento e suporte contínuo.</sub></td>
+    <td width="25%"><h3>01</h3><b>Diagnóstico</b><br/><sub>Entendemos seu processo e onde ele trava.</sub></td>
+    <td width="25%"><h3>02</h3><b>Proposta</b><br/><sub>Mapeamos a solução ideal para a sua rotina.</sub></td>
+    <td width="25%"><h3>03</h3><b>Desenvolvimento</b><br/><sub>Construção com acompanhamento próximo.</sub></td>
+    <td width="25%"><h3>04</h3><b>Entrega &amp; Suporte</b><br/><sub>Implementação, treinamento e suporte contínuo.</sub></td>
   </tr>
 </table>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ PORTFÓLIO ============ -->
-## Portfólio
+<!-- ===================== PORTFÓLIO ===================== -->
+<h2 align="center">Portfólio</h2>
 
-Projetos reais que deram origem à Nexora — boa parte construída resolvendo problemas de operação, atendimento, documentos, compras e RH dentro do Hospital de Olhos Vale do Aço.
+<p align="center">Projetos reais que deram origem à Nexora — boa parte construída resolvendo problemas de operação,<br/>atendimento, documentos, compras e RH dentro do Hospital de Olhos Vale do Aço.</p>
 
 | Projeto | Área | Status |
 | :--- | :--- | :--- |
@@ -93,54 +93,57 @@ Projetos reais que deram origem à Nexora — boa parte construída resolvendo p
   </a>
 </div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ TECNOLOGIAS ============ -->
-## Tecnologias
+<!-- ===================== TECNOLOGIAS ===================== -->
+<h2 align="center">Tecnologias</h2>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/Streamlit-141414?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
   <img src="https://img.shields.io/badge/Supabase-141414?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-<p>
+  <br/>
   <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Power_Automate-141414?style=for-the-badge&logo=powerautomate&logoColor=0066FF" />
   <img src="https://img.shields.io/badge/OpenAI-141414?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-141414?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+</div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ ATIVIDADE ============ -->
-## Atividade
+<!-- ===================== ATIVIDADE ===================== -->
+<h2 align="center">Atividade</h2>
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sayorigirlxc-bit&show_icons=true&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=C9D1D9&bg_color=0D0D0D" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayorigirlxc-bit&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D0D0D" />
 </div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ QUEM CONSTRÓI ============ -->
-## Quem está por trás
+<!-- ===================== QUEM CONSTRÓI ===================== -->
+<h2 align="center">Quem está por trás</h2>
 
-Liderada por **Ester ([@estxrdev](https://www.instagram.com/estxrdev/))**, a Nexora nasceu da prática: transformar processos manuais, confusos e espalhados em sistemas, painéis e automações que realmente fazem sentido para a rotina de cada negócio.
+<p align="center">
+  Liderada por <b>Ester (<a href="https://www.instagram.com/estxrdev/">@estxrdev</a>)</b>, a Nexora nasceu da prática:<br/>
+  transformar processos manuais, confusos e espalhados em sistemas, painéis e automações<br/>
+  que realmente fazem sentido para a rotina de cada negócio.
+</p>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="100%" /></div>
 
-<!-- ============ CONTATO ============ -->
-## Contato
+<!-- ===================== CONTATO ===================== -->
+<h2 align="center">Contato</h2>
 
-<p>
+<div align="center">
   <a href="https://nexora-flame-delta.vercel.app/"><img src="https://img.shields.io/badge/Website-nexora.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D" /></a>
   <a href="https://wa.me/5531972262580"><img src="https://img.shields.io/badge/WhatsApp-(31)%2097226--2580-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D0D0D" /></a>
   <a href="https://www.instagram.com/estxrdev/"><img src="https://img.shields.io/badge/Instagram-@estxrdev-A855F7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D" /></a>
   <a href="https://nexora-flame-delta.vercel.app/linkedin.html"><img src="https://img.shields.io/badge/LinkedIn-Em%20breve-141414?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" /></a>
-</p>
+</div>
 
 <br/>
 
