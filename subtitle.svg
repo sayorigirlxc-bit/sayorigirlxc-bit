@@ -1,0 +1,30 @@
+<svg width="900" height="64" viewBox="0 0 900 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sistemas e automacoes sob medida">
+<defs>
+  <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#c084fc"/>
+    <stop offset="0.5" stop-color="#a855f7"/>
+    <stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <style>
+    text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 30px; font-weight: 700; letter-spacing: .5px; fill: url(#txt); text-anchor: middle; }
+    .ph { opacity: 0; }
+    .p1 { animation: cyc 12s infinite 0s; }
+    .p2 { animation: cyc 12s infinite 3s; }
+    .p3 { animation: cyc 12s infinite 6s; }
+    .p4 { animation: cyc 12s infinite 9s; }
+    @keyframes cyc {
+      0%   { opacity:0; transform:translateY(6px); }
+      4%   { opacity:1; transform:translateY(0); }
+      21%  { opacity:1; transform:translateY(0); }
+      25%  { opacity:0; transform:translateY(-6px); }
+      100% { opacity:0; }
+    }
+  </style>
+</defs>
+<g>
+  <text class="ph p1" x="450" y="42">Sistemas sob medida, sem templates prontos</text>
+  <text class="ph p2" x="450" y="42">Automação de processos que sua equipe não precisa fazer</text>
+  <text class="ph p3" x="450" y="42">Dashboards que transformam dados em clareza</text>
+  <text class="ph p4" x="450" y="42">Do diagnóstico à entrega, sem enrolação</text>
+</g>
+</svg>
